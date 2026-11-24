@@ -18,7 +18,7 @@
         "chats",
         "tools"
       ],
-      "file": "plugins/ayusmart_tr.plugin",
+      "file": "ayusmart_tr.plugin",
       "sha256": "cafc916efe4443894ada626ae757a36104e4df517ad0e8d762fed90a14ff1937",
       "size": 1427,
       "updated_at": "2026-11-25T00:00:00Z"
